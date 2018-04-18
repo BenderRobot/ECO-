@@ -5,7 +5,7 @@
 // @grant       none
 // ==/UserScript==
 
-
+martin
 var url_nav = "http://izar.agora.msanet:8241/secure";
 var url_eco = "http://izar.agora.msanet:8241/browse";
 var url_clo = "http://izar.agora.msanet:8241/secure/views/bulkedit";
