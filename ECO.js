@@ -19,7 +19,7 @@ var user_eco_bis = full_url.substring(full_url.lastIndexOf( "/" )+1, full_url.la
 var g_title = document.title;
 var balize_g_title = g_title.substring(0, 3)
 var arr_service = ["AUTRES",
-									 "N1-UO-GP", 
+							 		 "N1-UO-GP", 
 									 "N1-UO-SB", 
 									 "N1-UO-SE", 
 									 "SEP-EXPLOIT", 
